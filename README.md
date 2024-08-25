@@ -21,4 +21,5 @@ O projeto é composto por três arquivos principais:
 
 ## Resultado Final
 ![resultado final](https://github.com/GraciellySRibeiro/Challenge/blob/main/fotosprojeto/Captura%20de%20tela%202024-08-24%20164558.png)
+![frase secreta](https://github.com/GraciellySRibeiro/Challenge/blob/main/fotosprojeto/Captura%20de%20tela%202024-08-24%20163319.png)
 O projeto final é um decodificador funcional que atende a todos os requisitos propostos.
