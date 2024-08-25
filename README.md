@@ -1,7 +1,23 @@
-# Desafio One 
-O projeto de conclusão da primeira etapa do curso One tinha como objetivo a criação de um decodificador de texto.
-Alguns dos requisitos eram:
--Criação de um arquivo HTML
--Estilização com CSS
--Criação das funcionalidades com Javascript
-Para ajudar na tarefa foi disponibilizado um arquivo com o prototipo no Figma.
+# Desafio One
+
+Este é o projeto de conclusão da primeira etapa do curso One, que tem como objetivo a criação de um decodificador de texto.
+
+## Requisitos do Projeto
+
+- Criação de um arquivo HTML.
+- Estilização com CSS.
+- Implementação das funcionalidades com JavaScript.
+
+Foi disponibilizado um protótipo no Figma para ajudar no desenvolvimento.
+
+## Estrutura do Projeto
+
+O projeto é composto por três arquivos principais:
+
+- **index.html:** Estrutura básica da página, incluindo as seções `head`, `header`, `footer`, e várias `divs` para organizar o layout.
+- **style.css:** Arquivo de estilos, onde foram importadas fontes do Google. Também foi adicionado o estilo `text-transform: lowercase;` ao campo de entrada (`input`) e um efeito de `hover` nos botões.
+- **script.js:** Contém as funcionalidades de criptografia e descriptografia, implementadas em JavaScript.
+
+## Resultado Final
+
+O projeto final é um decodificador funcional que atende a todos os requisitos propostos.
