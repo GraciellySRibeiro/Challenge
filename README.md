@@ -9,7 +9,7 @@ Este é o projeto de conclusão da primeira etapa do curso One, que tem como obj
 - Implementação das funcionalidades com JavaScript.
 
 Foi disponibilizado um protótipo no Figma para ajudar no desenvolvimento.
-
+![Diagrama da solução](https://github.com/GraciellySRibeiro/Challenge/tree/main/fotosprojeto/Decodificador - 1 Desktop.png)
 ## Estrutura do Projeto
 
 O projeto é composto por três arquivos principais:
